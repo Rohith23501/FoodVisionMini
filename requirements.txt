@@ -1,0 +1,3 @@
+torch==2.3.0+cu121
+torchvision==4.37.2
+gradio==4.37.2
